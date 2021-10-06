@@ -1,8 +1,13 @@
-Yassemine  
-Ben Issa  
-word   
-excel  
-linux  
-Windows  
+# Portfolio de Yassemine  
+## nom  
 
+ Ben Issa  
+
+ ## compétences  
+  
+
+- word   
+- excel  
+- linux  
+- Windows  
 
